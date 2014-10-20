@@ -1,0 +1,5 @@
+hight=input ("your hight? (cm)\n")
+weight=input ("your weight? (kilogram)\n")
+BMI = float(weight)*int(10000)/float(hight)/float(hight)
+print("your BMI" )
+print (BMI)
